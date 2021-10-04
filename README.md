@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
   - [Linkedin](https://www.linkedin.com/in/wandabwaherman/)
   - [Twitter](https://twitter.com/hermanwandabwa)
-  - [Email](wandabwa2004@gmail.com)
+
 - More about me:
   - [Medium](https://medium.com/@hermanwandabwa)
   - [Data Science Portfolio](https://github.com/wandabwa2004/DS_Projects) 
