@@ -6,12 +6,12 @@
 - 📫 How to reach me: ...
   - [Linkedin](https://www.linkedin.com/in/wandabwaherman/)
   - [Twitter](https://twitter.com/hermanwandabwa)
-  - [Email](maito:wandabwa2004@gmail.com)
+  - [Email](wandabwa2004@gmail.com)
 - More about me:
   - [Medium](https://medium.com/@hermanwandabwa)
   - [Data Science Portfolio](https://github.com/wandabwa2004/DS_Projects) 
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=radical&count_private=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=tokyonight&count_private=true)
 
    
 <!--
