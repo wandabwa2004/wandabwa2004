@@ -11,7 +11,7 @@
   - [Medium](https://medium.com/@hermanwandabwa)
   - [Data Science Portfolio](https://github.com/wandabwa2004/DS_Projects) 
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=radical)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=radical&count_private=true)
 
    
 <!--
