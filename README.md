@@ -13,10 +13,10 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=tokyonight&count_private=true)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/1" alt="Recent Article 1">  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/2" alt="Recent Article 2">  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/3" alt="Recent Article 3">  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/1" alt="Recent Article 1">  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/2" alt="Recent Article 2">  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/3" alt="Recent Article 3">  
    
 <!--
 **wandabwa2004/wandabwa2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
