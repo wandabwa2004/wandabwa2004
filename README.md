@@ -7,13 +7,13 @@
   - [Linkedin](https://www.linkedin.com/in/wandabwaherman/)
   - [Twitter](https://twitter.com/hermanwandabwa)
 
-- More about me:
+### - More about me:
   - [Medium](https://medium.com/@hermanwandabwa)
   - [Data Science Portfolio](https://github.com/wandabwa2004/DS_Projects) 
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wandabwa2004&show_icons=true&theme=tokyonight&count_private=true)
 
-- Latest Articles
+### - Latest Articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/1" alt="Recent Article 1">  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hermanwandabwa/2" alt="Recent Article 2">  
